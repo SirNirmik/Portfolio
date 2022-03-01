@@ -1,0 +1,25 @@
+.line{
+    width: 300px;
+    margin: 8px auto;
+    height: 6px;
+    background-color: rgb(87, 131, 20);
+}
+h1{
+    color: green;
+    font-size: 50px;
+}
+#apps{
+    background-color: rgb(210, 250, 151);
+}
+#chatbots{
+    background-color: rgb(166, 253, 34);
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+    color: rgb(196, 253, 110);
+}
+.carousel-inner p{
+    margin-top: 15px;
+    font-size: 20px;
+}
